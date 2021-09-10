@@ -1,0 +1,16 @@
+body {
+    background: black;
+    height: 100vh;
+}
+
+.postcard {
+    width: 600px;
+    height: 350px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin: auto auto;
+    background-image: url('fondo.jpg');
+    background-size: cover;
+    background-position: center center;
+    color: white;
+}
